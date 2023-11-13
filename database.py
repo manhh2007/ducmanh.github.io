@@ -1,0 +1,6 @@
+WIDTH   = 500   
+HEIGHT  = 500  
+P_RIGHT =  100
+P_DOWN  =  100
+COLOR = "#CC6699"
+
